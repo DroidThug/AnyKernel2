@@ -82,3 +82,5 @@ Not required, but any tweaks you can't hardcode into the source (best practice) 
 
 
 Have fun!
+
+## Modified by DroidThug for Infernus Kernel!
